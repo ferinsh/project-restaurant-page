@@ -1,5 +1,6 @@
 import createHeader from "./createHeader";
 import createBody from "./createBody";
+import './style.css';
 
 console.log("index.js loaded successfully");
 
