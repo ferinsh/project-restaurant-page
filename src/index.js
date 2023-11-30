@@ -29,6 +29,8 @@ document.addEventListener("DOMContentLoaded", function () {
     const menuContent = document.querySelector(".content-menu");
     const contactContent = document.querySelector(".content-contact");
 
+    homeContent.style.display = "flex";
+
     const homeBTN = document.querySelector("#header-buttons-home");
     console.log(homeBTN);
     const menuBTN = document.querySelector("#header-buttons-menu");
